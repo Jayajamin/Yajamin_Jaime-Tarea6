@@ -1,9 +1,17 @@
 # Yajamin_Jaime-Tarea6
 
+1.	OBJETIVOS
 
+Aplicar los conocimientos básicos sobre condensadores en serie y en paralelo utilizando la funcionamiento de un capacitor a través de la experimentación y observaciónfuncionamiento. Con esto lograr relacionar estas magnitudes entre sí, permitiendo la resolución de problemas numéricos sencillos para el buen desarrollo de la materia, se desarrolló la lectura y comprensión del libro Floyd donde se complementó y reforzo temas vistos en clase para una mejor ejecución del presente informe.
 
+Objetivos específicos 
+•	Analizar ejercicios de condensadores en serie y en paralelo para conocer la distribuciónde la corriente eléctrica
 
+•	Revisar lecturas referentes a las recomendadas en las cuales incluye Floyd, para una comprensión de los temas relacionados a este informe.
 
+•	Describir procesos realizados con fórmulas acorde al ejercicio y utilizar lo aprendido en clase para una mejor ejecución al realizar los cuestionarios.
+
+•	Concluir con un informe limpio y ordenado para una buena comprensión del lector con redacciones concisas.
 
 2.MARCO TEÓRICO
 
@@ -318,4 +326,18 @@ SECCIÓN 12–8 Circuitos de capacitor conmutado
 ¿Qué valor de resistor se emula?
 
 ![image](https://user-images.githubusercontent.com/106272493/179897949-2a83fe73-94a7-4049-b409-f27410744f55.png)
+
+
+VIDEO
+
+CONCLUSIONES
+
+Se puede concluir que un capacitor es un aparato que permite almacenar energía eléctrica, el cual consiste en dos placas conductoras colocadas una cerca de
+otra, pero sin tocarse, una placa adquiere una carga positiva y la otra una carga negativa. La energía almacena por un capacitor es muy pequeña por lo cual se usa unidades de micro faradios.A  través   de   la   experimentación   se   puede   concluir   que   la   capacitancia   de   un   capacitor   es
+directamente proporcional al área de las placas e inversamente proporcional a la distancia que existe entre las dos placas, es decir, si aumentamos la distancia ente las placas la capacitancia disminuirá concluir que se realizo un buen trabajo con la comprensión de lecturas de libros y lo visto en clase.
+
+Bibliografía
+Bryan, C. (12 de 03 de 2016). Studidoc. Obtenido de Politecnica : https://www.studocu.com/ec/document/escuela-superior-politecnica-de-chimborazo/quimica-fisica/capacitores-informe-de-laboratorio/8874731
+Losser Z. (25 de 05 de 2018). WIKIPEDIA. Obtenido de WIKIPEDIA: https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico
+Morocgo, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos: https://biblioteca.unirioja.es/biba/pag3.php?-cod=490
 
