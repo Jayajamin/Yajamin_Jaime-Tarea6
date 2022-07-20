@@ -338,6 +338,7 @@ otra, pero sin tocarse, una placa adquiere una carga positiva y la otra una carg
 directamente proporcional al área de las placas e inversamente proporcional a la distancia que existe entre las dos placas, es decir, si aumentamos la distancia ente las placas la capacitancia disminuirá concluir que se realizo un buen trabajo con la comprensión de lecturas de libros y lo visto en clase.
 
 Bibliografía
+
 Bryan, C. (12 de 03 de 2016). Studidoc. Obtenido de Politecnica : https://www.studocu.com/ec/document/escuela-superior-politecnica-de-chimborazo/quimica-fisica/capacitores-informe-de-laboratorio/8874731
 Losser Z. (25 de 05 de 2018). WIKIPEDIA. Obtenido de WIKIPEDIA: https://es.wikipedia.org/wiki/Condensador_el%C3%A9ctrico
 Morocgo, J. F. ( 2011). Problemas de circuitos eléctricos. Obtenido de Problemas de circuitos eléctricos: https://biblioteca.unirioja.es/biba/pag3.php?-cod=490
