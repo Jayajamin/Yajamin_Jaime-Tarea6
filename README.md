@@ -5,6 +5,7 @@
 Aplicar los conocimientos básicos sobre condensadores en serie y en paralelo utilizando la funcionamiento de un capacitor a través de la experimentación y observaciónfuncionamiento. Con esto lograr relacionar estas magnitudes entre sí, permitiendo la resolución de problemas numéricos sencillos para el buen desarrollo de la materia, se desarrolló la lectura y comprensión del libro Floyd donde se complementó y reforzo temas vistos en clase para una mejor ejecución del presente informe.
 
 Objetivos específicos 
+
 •	Analizar ejercicios de condensadores en serie y en paralelo para conocer la distribuciónde la corriente eléctrica
 
 •	Revisar lecturas referentes a las recomendadas en las cuales incluye Floyd, para una comprensión de los temas relacionados a este informe.
