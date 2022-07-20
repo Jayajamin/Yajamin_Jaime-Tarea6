@@ -181,11 +181,11 @@ C=Q/V --> C=3,8/2,5=1,52F
 
 SECCIÓN 12–2 Tipos de capacitores 
 
-7.. En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?
-
 
 8.. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
+
 ![image](https://user-images.githubusercontent.com/106272493/179892435-26672763-aa11-4c46-a249-67bb86c2526e.png)
+
 ![image](https://user-images.githubusercontent.com/106272493/179896595-7c186539-9410-4ffc-83e1-e61984315158.png)
 
 9.Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67.
